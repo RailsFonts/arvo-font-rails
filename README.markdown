@@ -1,6 +1,6 @@
 # arvo-font-rails
 
-Adds the [ASAP font](http://www.fontsquirrel.com/fonts/arvo) by Anton Koovit to the Rails 3.1+ asset pipeline.
+Adds the [Arvo font](http://www.fontsquirrel.com/fonts/arvo) by Anton Koovit to the Rails 3.1+ asset pipeline.
 
 ## Installation
 
