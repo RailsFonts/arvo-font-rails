@@ -1,1 +1,1 @@
-require "avro-font-rails/engine"
+require "arvo-font-rails/engine"

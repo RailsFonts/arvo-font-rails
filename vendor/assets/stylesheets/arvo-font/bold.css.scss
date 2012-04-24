@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'AsapBold';
+    src: url(font-path('Arvo-Bold-webfont.eot'));
+    src: url(font-path('Arvo-Bold-webfont.eot')+'?#iefix') format('embedded-opentype'),
+         url(font-path('Arvo-Bold-webfont.woff')) format('woff'),
+         url(font-path('Arvo-Bold-webfont.ttf')) format('truetype'),
+         url(font-path('Arvo-Bold-webfont.svg#ArvoBold')) format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

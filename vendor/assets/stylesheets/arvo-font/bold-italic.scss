@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'ArvoBoldItalic';
+    src: url(font-path('Arvo-BoldItalic-webfont.eot'));
+    src: url(font-path('Arvo-BoldItalic-webfont.eot')+'?#iefix') format('embedded-opentype'),
+         url(font-path('Arvo-BoldItalic-webfont.woff')) format('woff'),
+         url(font-path('Arvo-BoldItalic-webfont.ttf')) format('truetype'),
+         url(font-path('Arvo-BoldItalic-webfont.svg#ArvoBoldItalic')) format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
